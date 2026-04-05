@@ -99,5 +99,4 @@ A parameter sweep is used to analyse the trade-off between profit and emissions.
 ## Author
 
 Zetao Li
-KCL
-K25022814
+k25022814@kcl.ac.uk
